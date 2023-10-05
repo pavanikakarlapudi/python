@@ -1,2 +1,2 @@
-a=5
+a="helloworld"
 print(a)
